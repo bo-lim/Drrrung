@@ -1,5 +1,8 @@
 # 💤 Drrrung
 
+## [Presentation Document](https://github.com/bo-lim/Drrrung/blob/main/해커톤_최종.pptx)
+## [Presentation Video](https://github.com/bo-lim/Drrrung/blob/main/해커톤_최종발표.mp4)
+
 ## Our Team
 ![image](https://user-images.githubusercontent.com/55435898/128643511-5cdd91aa-63c8-4440-9704-75c37ed4914d.png)
 - Bolim Lee 🏂 / github: @bo-lim / (School of Computer Science & Engineering, Chung-Ang Univ.)
